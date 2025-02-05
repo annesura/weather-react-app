@@ -53,18 +53,23 @@ export default function Weather() {
       </main>
       <footer>
         This project was coded by{" "}
-        <a href="https://github.com/annesura" target="_blank">
+        <a href="https://github.com/annesura" target="_blank" rel="noreferrer">
           Anne Sura
         </a>
         , is{" "}
         <a
           href="https://github.com/annesura/my-weather-project"
           target="_blank"
+          rel="noreferrer"
         >
           open-sourced on GitHub
         </a>
         and{" "}
-        <a href="https://weather-by-anne.netlify.app/" target="_blank">
+        <a
+          href="https://weather-by-anne.netlify.app/"
+          target="_blank"
+          rel="noreferrer"
+        >
           hosted on Netlify
         </a>
       </footer>
